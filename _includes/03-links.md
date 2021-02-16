@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+ [Youtube](https://www.youtube.com/?hl=es&gl=ES)
+ [twitter](https://twitter.com/home)
